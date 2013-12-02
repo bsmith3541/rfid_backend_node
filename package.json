@@ -19,7 +19,8 @@
 
   "dependencies": {
     "winston": "~ 0.5.11",
-    "socket.io": "~ 0.9.10"
+    "socket.io": "~ 0.9.10",
+    "connect": ">=0.0.1"
   },
 
   "devDependencies": {
