@@ -3,8 +3,6 @@
   "encoding": "utf8",
 
   "bind": {
-    //"host": "localhost",
-    //"port": 8888,
     "host": "pacific-chamber-2346.herokuapp.com/",
     "port": 8888,
     "ssl": false
